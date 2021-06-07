@@ -39,9 +39,16 @@ cd Self-Bot && chmod +x autobd.sh && chmod 777 autobd.sh && screen ./autobd.sh
  موفق و پیروز باشید
  ستاره یادتون نره
 
-[Majholboy](https://github.com/MajhoIboy) ([Telegram](https://telegram.me/MajhoIboy))
+([Telegram](https://telegram.me/MajhoIboy))
 ----------------------
 [@ShahvarTeam](https://telegram.me/shahvarteam)
 
 # با تشکر از تیم بیوند
 [@BeyondTeam](https://telegram.me/BeyondTeam)
+
+
+
+
+
+
+#اولین فایل رو به یاد قدیم گذاشتم که برمیگرده به 4 سال پیش
